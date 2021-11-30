@@ -4,11 +4,8 @@ A Face Detection Project Using the Haarcascade Algorithim utilises opencv librar
 ## Running This Project
 Git clone or download the zip file and execute the .py file
 
+```python Face_detection.py
 ```
-python Face_detection.py
-
-```
-
 ## Find Out More About Me
 
 - **[Facebook](https://facebook.com/rafayrty)**
